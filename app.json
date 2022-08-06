@@ -1,8 +1,8 @@
 {
-  "name": "VihangaBot-MD",
+  "name": "Kelum Nethsara",
   "description": "whatsapp md bot build with nodejs",
   "repository": "https://github.com/vihangayt0/VihangaBot-MD",
-  "logo": "hhttps://i.ibb.co/THTK67m/Vihanga-MD.png",
+  "logo": "",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
     {
